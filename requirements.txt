@@ -1,0 +1,25 @@
+# ================================
+# ITARA Football Analytics Platform
+# Requirements
+# ================================
+
+# Core App Framework
+streamlit>=1.32.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.18.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# File Export (Reports)
+reportlab>=4.0.0
+openpyxl>=3.1.0
+
+# Optional (recommended for future scaling)
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
